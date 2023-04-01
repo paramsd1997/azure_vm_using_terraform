@@ -17,4 +17,4 @@ provider "azurerm" {
 provider for azure
 
 
-#
+#terraform version check

@@ -14,3 +14,7 @@ provider "azurerm" {
   tenant_id       = "ac1ddd09-666f-4adb-bd77-6c4650bb4fad"
   features {}
 }
+provider for azure
+
+
+#
